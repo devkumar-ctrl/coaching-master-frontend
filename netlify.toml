@@ -32,7 +32,7 @@
   # Canonical frontend origin. Auth.js on the backend sets AUTH_URL to the same
   # value; keeping them identical means session cookies are issued for the
   # production host.
-  NEXT_PUBLIC_APP_URL = "https://superb-toffee-966a8c.netlify.app"
+  NEXT_PUBLIC_APP_URL = "https://tutioncenter2.netlify.app"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
